@@ -215,11 +215,11 @@ header .wrapper button:hover {
 }
 
 .projects .card-01 {
-    background-image: url("img/skadooshbg.jpg");
+    background-image: url("../img/skadooshbg.JPG");
 }
 
 .projects .card-02 {
-    background-image: url("/img/chessmatebg.jpg");
+    background-image: url("./img/chessmatebg.jpg");
 }
 
 .projects .card {

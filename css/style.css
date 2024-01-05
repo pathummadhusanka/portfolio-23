@@ -171,7 +171,7 @@ header .wrapper button:hover {
     flex-direction: column;
     align-items: center;
     position: relative;
-    background-image: url("img/aboutbg.jpg");
+    background-image: url("./img/aboutbg.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
